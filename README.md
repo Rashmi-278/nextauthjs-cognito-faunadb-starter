@@ -19,8 +19,8 @@ Go to [next-auth.js.org](https://next-auth.js.org) for more information and docu
 ### 1. Clone the repository and install dependancies
 
 ```
-git clone https://github.com/nextauthjs/next-auth-example.git
-cd next-auth-example
+git clone https://github.com/Rashmi-278/nextauthjs-cognito-faunadb-starter
+cd nextauthjs-cognito-faunadb-starter
 npm i
 ```
 
